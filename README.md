@@ -52,3 +52,6 @@ public class OrderTest {
 }
 
 ```
+
+![solidPrinciples](https://github.com/AngelicaManliguez/solidPrinciples/assets/142959759/714989d3-13a8-46f0-9028-311828288490)
+
