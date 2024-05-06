@@ -2,7 +2,7 @@
 
 Improve the following codes to implement SOLID principles in OOP.
 
-
+```
 public interface Order {
   void calculateTotal(double price, int quantity);
   void placeOrder(String customerName, String address);
@@ -51,4 +51,4 @@ public class OrderTest {
   }
 }
 
-
+```
